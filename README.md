@@ -6,5 +6,5 @@ The Job Worker Config is specified via Java Enviroment Variables. These can be s
 * ZEEBE_ADDRESS
 * ZEEBE_AUTHORIZATION_SERVER_URL
 * ZEEBE_CLIENT_ID
-* ZEEBE_CLIENT_SECRET
+* ZEEBE_CLIENT_SECRET<br>
 --> The variable values can be get fro the camunda cluster API (<b>Zeebe must be activated</b>)
